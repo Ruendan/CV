@@ -1,4 +1,6 @@
 # CV
 Voici mon CV ! - Quentin Dubois
 
-Je profite de mon GitHub pour pouvoir exposer mon CV en public !
+Ruendan est le pseudo que j'utilise habituellement
+
+Je profite de mon GitHub pour pouvoir exposer mon CV en public
